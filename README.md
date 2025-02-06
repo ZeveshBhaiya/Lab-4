@@ -1,2 +1,3 @@
-# Lab-4
-Main 
+int a, int b;
+int sum = a+b;
+console. WriteLine("The numbers are added") ;
